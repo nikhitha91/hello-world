@@ -1,1 +1,3 @@
-print("hello world")
+import os
+def example:
+	print("hello world")
